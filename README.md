@@ -11,6 +11,14 @@ Machine Learning algorithms used:
 2. Random Forest (Scikit-learn)
 3. XGBoost (Scikit-learn)
 
-Accuracy achieved: 98.83% (Random Forest)
+Scores achieved:
+
+Before Tuning:  Logistic Regression = 80.15%
+                RandomForestClassifier = 97.66%
+                XGBoost = 98.83%
+
+After tuning:   Logistic Regression = 79.37%
+                RandomForestClassifier = 97.66%
+                XGBoost = 98.83%
 
 Dataset used: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
