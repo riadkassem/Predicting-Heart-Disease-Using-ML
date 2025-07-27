@@ -15,14 +15,14 @@ Scores achieved:
 
 Before Tuning:
 
-Logistic Regression = 80.15%
-RandomForestClassifier = 97.66%
+Logistic Regression = 80.15%,
+RandomForestClassifier = 97.66%,
 XGBoost = 98.83%
 
 After tuning:
 
-Logistic Regression = 79.37%
-RandomForestClassifier = 97.66%
+Logistic Regression = 79.37%,
+RandomForestClassifier = 97.66%,
 XGBoost = 98.83%
 
 Dataset used: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
